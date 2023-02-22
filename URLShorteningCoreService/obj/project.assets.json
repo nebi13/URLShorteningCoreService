@@ -708,11 +708,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gozde\\source\\repos\\URLShorteningCoreService\\URLShorteningCoreService\\URLShorteningCoreService.csproj",
+      "projectUniqueName": "C:\\Users\\gozde\\OneDrive\\Belgeler\\git\\URLShorteningCoreService\\URLShorteningCoreService.csproj",
       "projectName": "URLShorteningCoreService",
-      "projectPath": "C:\\Users\\gozde\\source\\repos\\URLShorteningCoreService\\URLShorteningCoreService\\URLShorteningCoreService.csproj",
+      "projectPath": "C:\\Users\\gozde\\OneDrive\\Belgeler\\git\\URLShorteningCoreService\\URLShorteningCoreService.csproj",
       "packagesPath": "C:\\Users\\gozde\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gozde\\source\\repos\\URLShorteningCoreService\\URLShorteningCoreService\\obj\\",
+      "outputPath": "C:\\Users\\gozde\\OneDrive\\Belgeler\\git\\URLShorteningCoreService\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gozde\\AppData\\Roaming\\NuGet\\NuGet.Config",

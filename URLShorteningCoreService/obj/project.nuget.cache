@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sdiGLRFzB98VeoJ2RFnI5h1xJtyJTZmraRHwEFyXJkQKHRVyQs46GZMTgrPn1hkhm+tNLonVQtVKJ8t6ecsOkQ==",
+  "dgSpecHash": "kRltzJYJZ1eJiaPf4RH7OV1Gz1AfqiwEoBmxVeDyjDvyBie6eIAbzS8R2IQzZQvaoRZyowOBuq8tlmNXqi+2aA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\gozde\\source\\repos\\URLShorteningCoreService\\URLShorteningCoreService\\URLShorteningCoreService.csproj",
+  "projectFilePath": "C:\\Users\\gozde\\OneDrive\\Belgeler\\git\\URLShorteningCoreService\\URLShorteningCoreService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gozde\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",
     "C:\\Users\\gozde\\.nuget\\packages\\awssdk.securitytoken\\3.7.100.14\\awssdk.securitytoken.3.7.100.14.nupkg.sha512",

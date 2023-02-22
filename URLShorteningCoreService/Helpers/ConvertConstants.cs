@@ -7,7 +7,7 @@ namespace URLShorteningCoreService.Helpers
 {
     public class ConvertConstants
     {
-        public const int MaxNumberOfChars = 7;
+        public const int MaxNumberOfChars = 6;
         public const int MaxNumberOfBits = 32;
         public const int NumberOfBitsForOneSymbol = 5;
         public const int MaxShiftedValueForLetters = 25;
